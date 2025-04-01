@@ -1,1 +1,1 @@
-Sitemap: https://byuidatascience.github.io/datascience_portfolio/sitemap.xml
+Sitemap: https://mid-adamj.github.io/real250/sitemap.xml
