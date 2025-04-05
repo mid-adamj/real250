@@ -25,6 +25,18 @@ website:
         file: resume.qmd
       - text: "Data Cleansing"
         file: cleansing.qmd
+      - text: "Template 0 - Data Cleaning"
+        file: Cleansing_Projects/project0.qmd
+      - text: "Template 1 - Data Processing"
+        file: Cleansing_Projects/P1_template\ (1).qmd
+      - text: "Template 2 - Data Preparation"
+        file: Cleansing_Projects/project2.qmd
+      - text: "Template 3 - Data Formatting"
+        file: Cleansing_Projects/project3.qmd
+      - text: "Template 4 - Data Validation"
+        file: Cleansing_Projects/project4.qmd
+      - text: "Template 5 - Data Analysis"
+        file: Cleansing_Projects/project5.qmd
       - text: "Data Exploration"
         file: exploration.qmd
       - text: "Story Telling"
@@ -36,7 +48,7 @@ website:
       - text: "Competition"
         file: competition.qmd
   
-  # learn more about navication here https://quarto.org/docs/websites/website-navigation.html
+  # learn more about navigation here https://quarto.org/docs/websites/website-navigation.html
   # comment out any of the sections below to turn off the sidebar
 
   sidebar: 
@@ -47,20 +59,23 @@ website:
         - text: "Data Cleansing"
           file: cleansing.qmd
         - text: "---"
-        - text: "Project 1"
+        - text: "Template 0 - Data Cleaning"
+          file: Cleansing_Projects/project0.qmd
+        - text: "---"
+        - text: "Template 1 - Data Processing"
           file: Cleansing_Projects/project1.qmd
         - text: "---"
-        - text: "Project 2"
-          file: Cleansing_Projects/project2.qmd
+        - text: "Template 2 - Data Preparation"
+          file: Cleansing_Projects/P2_template.qmd
         - text: "---"
-        - text: "Project 3"
-          file: Cleansing_Projects/project3.qmd
+        - text: "Template 3 - Data Formatting"
+          file: Cleansing_Projects/P3_template\ (1).qmd
         - text: "---"
-        - text: "Project 4"
-          file: Cleansing_Projects/project4.qmd
+        - text: "Template 4 - Data Validation"
+          file: Cleansing_Projects/P4_template.qmd
         - text: "---"
-        - text: "Project 5"
-          file: Cleansing_Projects/project5.qmd
+        - text: "Template 5 - Data Analysis"
+          file: Cleansing_Projects/P5_template.qmd
         - text: "---"
     - title: "Data Exploration"
       style: "docked"
@@ -172,16 +187,13 @@ website:
         - text: "Project 5"
           file: Competition/project5.qmd
         - text: "---"
-  
+
 format:  
   html:
-    theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
-      light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
+    theme: 
+      light: flatly
       dark: darkly
-      #light: cosmo
-      #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-
 
 

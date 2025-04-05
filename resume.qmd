@@ -1,89 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adam Middleton's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Adam Middleton
+- Student of Biology
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ajmiddle10@gmail.com">ajmiddle10@gmail.com</a>
+| <a href="https://mid-adamj.github.io/real250/">Portfolio Website</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Student at Brigham Young University-Idaho 
 
-### Specialized in
+### Majoring in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Biology
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Genetics, Data Science
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`Sept 2023 - now`
+__Brigham Young University-Idaho__
+Rexburg, ID
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Cashier`
 
-- Warden
-- Minted coins
+`Jun. 2021 – Aug. 2021`
+__Harris Teeter: Groceries and Pharmacy__, Chantilly, VA
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Handled sales transactions, operated the cash register, and provided excellent customer service.
+- Communicated effectively with customers, creating a friendly environment. 
+- Fostered a sense of diligence, especially during rush hours of the day.
+- Procured a more complete understanding of patience with others. 
 
+## Volunteer Work
+`Full-Time Volunteer Representative`
+__The Church of Jesus Christ of Latter-day Saints__, Fort Lauderdale, FL
 
+- Served as a missionary, teaching prospective converts.
+- Taught English to Latin American immigrants. 
+- Contributed time to community service projects and planned local church service projects. 
+- Achieved advanced proficiency in Spanish through intensive study and practice.  
+- Honed communication and collaboration skills while serving with other missionaries and authority figures.
+- Developed problem-solving abilities through weekly goal-setting and feedback sessions.  
+
+## Other
+- Laboratory Skills: Experience in plating bacteria and testing for antibiotic production; familiarity with common laboratory equipment.
+- Foundational knowledge and some experience coding in the Python and R languages.
 
 <!-- ### Footer
-
 Last updated: May 2013 -->
