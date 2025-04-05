@@ -25,18 +25,6 @@ website:
         file: resume.qmd
       - text: "Data Cleansing"
         file: cleansing.qmd
-      - text: "Template 0 - Data Cleaning"
-        file: Cleansing_Projects/project0.qmd
-      - text: "Template 1 - Data Processing"
-        file: Cleansing_Projects/P1_template\ (1).qmd
-      - text: "Template 2 - Data Preparation"
-        file: Cleansing_Projects/project2.qmd
-      - text: "Template 3 - Data Formatting"
-        file: Cleansing_Projects/project3.qmd
-      - text: "Template 4 - Data Validation"
-        file: Cleansing_Projects/project4.qmd
-      - text: "Template 5 - Data Analysis"
-        file: Cleansing_Projects/project5.qmd
       - text: "Data Exploration"
         file: exploration.qmd
       - text: "Story Telling"
@@ -59,23 +47,20 @@ website:
         - text: "Data Cleansing"
           file: cleansing.qmd
         - text: "---"
-        - text: "Template 0 - Data Cleaning"
-          file: Cleansing_Projects/project0.qmd
-        - text: "---"
         - text: "Template 1 - Data Processing"
           file: Cleansing_Projects/project1.qmd
         - text: "---"
         - text: "Template 2 - Data Preparation"
-          file: Cleansing_Projects/P2_template.qmd
+          file: Cleansing_Projects/project2.qmd
         - text: "---"
         - text: "Template 3 - Data Formatting"
-          file: Cleansing_Projects/P3_template\ (1).qmd
+          file: Cleansing_Projects/project3.qmd
         - text: "---"
         - text: "Template 4 - Data Validation"
-          file: Cleansing_Projects/P4_template.qmd
+          file: Cleansing_Projects/project4.qmd
         - text: "---"
         - text: "Template 5 - Data Analysis"
-          file: Cleansing_Projects/P5_template.qmd
+          file: Cleansing_Projects/project5.qmd
         - text: "---"
     - title: "Data Exploration"
       style: "docked"
