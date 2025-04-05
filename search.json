@@ -112,7 +112,11 @@
     "href": "Cleansing_Projects/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Template 4 - Data Validation"
+    ]
   },
   {
     "objectID": "Cleansing_Projects/project1.html",
@@ -130,7 +134,11 @@
     "href": "Cleansing_Projects/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Template 3 - Data Formatting"
+    ]
   },
   {
     "objectID": "Cleansing_Exploration/project2.html",
@@ -321,14 +329,22 @@
     "href": "Cleansing_Projects/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Template 5 - Data Analysis"
+    ]
   },
   {
     "objectID": "Cleansing_Projects/project2.html",
     "href": "Cleansing_Projects/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Template 2 - Data Preparation"
+    ]
   },
   {
     "objectID": "Competition/project3.html",
